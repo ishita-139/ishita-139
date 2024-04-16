@@ -6,7 +6,7 @@
 
 - 🌱 I’m **Web Developer inclined towards Machine Learning, Data Science & AI.**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1W3F14saCNwNUgVMLtZMhgctG-khigCng/view?usp=drive_link](https://drive.google.com/file/d/1W3F14saCNwNUgVMLtZMhgctG-khigCng/view?usp=drive_link)
+- 👨‍💻 I am coding enthusiast skilled in C, C++ , Python along with strong knowledge in Data structres and algorithms.
 
 - 📫 How to reach me **ishitagarwal.tia@gmail.com**
 
