@@ -1,4 +1,4 @@
-![image](https://github.com/ishita-139/ishita-139/assets/118765693/4a1f6944-188f-42a3-bf02-b6c5e10ed75f)<h1 align="center">Hi 👋, I'm Ishita Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Ishita Agarwal</h1>
 <h3 align="center">A passionate software engineer , web developer and content writer</h3>
 <img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/dfa42d4c3396a0367f99f0fe48bc6c5fb7f409c2a2f3996154a8f220e983f35b/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966"> 
 
